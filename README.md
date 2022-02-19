@@ -15,3 +15,6 @@ Allure TestOps IDOR vulnerability
 
 # PoC
 <img src="IDOR/13.png">
+
+# By
+<a href="https://www.linkedin.com/in/ahmed-abdulhameed-729737158/">Hameed74</a> & <a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a>
