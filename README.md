@@ -1,4 +1,4 @@
-# Allure_TestOps_IDOR
+# Allure_TestOps_IDOR (CVE-2022-25588)
 Allure TestOps IDOR vulnerability 
 
 # Reproduce
